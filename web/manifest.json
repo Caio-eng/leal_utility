@@ -1,11 +1,11 @@
 {
-    "name": "leal_utility",
-    "short_name": "leal_utility",
+    "name": "Leal Utility",
+    "short_name": "Leal Utility",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "App para varias utilidades",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
